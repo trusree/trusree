@@ -1,7 +1,5 @@
 **Bogdan Vlasov | Security, SysAdmin, Enthusiast**
-`Linux` `Networking` `Cybersecurity` `Automation`  
  Lviv, Ukraine 
-**Currently Exploring**
 - Security  
 - Radio hacking 
 
