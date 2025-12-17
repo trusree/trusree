@@ -1,13 +1,6 @@
 **Bogdan Vlasov | Security & SysAdmin Enthusiast**
 `Linux` `Networking` `Cybersecurity` `Automation`  
- Lviv, Ukraine  
-
-- **OS:** Linux (NixOS/Arch), BSD, Windows  
-- **Networking:** TCP/IP, DNS, iptables, Wireshark  
-- **Security:** OWASP Top 10, Burp Suite, Metasploit, IDS/IPS  
-- **Scripting:** `Bash` (systemd/cron), `Python` 
-- **Other:** Git, MySQL, Docker (basic), Ansible (basic)  
-
+ Lviv, Ukraine 
 **Currently Exploring**
 - Security  
 - Radio hacking 
