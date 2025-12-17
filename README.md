@@ -1,5 +1,5 @@
 **Bogdan Vlasov | Security, SysAdmin, Enthusiast**
-Lviv, Ukraine 
+|Lviv, Ukraine 
 - Security  
 - Radio hacking 
 
